@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/vaibhavjha/sqrrl-api/sqrrl-api/app/model'
+let g:netrw_dirhist_2='/Users/vaibhavjha/sqrrl-api/sqrrl-api/app/service/billdesk'
+let g:netrw_dirhist_3='/Users/vaibhavjha/sqrrl-api/sqrrl-api/app'
+let g:netrw_dirhist_4='/Users/vaibhavjha/sqrrl-api/sqrrl-api/scripts'
+let g:netrw_dirhist_5='/Users/vaibhavjha/sqrrl-api/sqrrl-api/app'
+let g:netrw_dirhist_6='/Users/vaibhavjha/.aws'
